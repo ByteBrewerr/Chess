@@ -1,0 +1,18 @@
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\Release\WinChess.exe.config
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\Release\WinChess.exe
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\Release\WinChess.pdb
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.FormMain.resources
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.exe
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.pdb
+D:\Documents\Visual Studio 2019\Projects\TZ\WinChess\WinChess\WinChess\obj\Debug\WinChess.ControlBoard.resources
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.csprojAssemblyReference.cache
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.exe
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.pdb
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.ControlBoard.resources
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.FormMain.resources
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.Properties.Resources.resources
+C:\Users\TEMP\Desktop\WinChess\WinChess\obj\Debug\WinChess.csproj.GenerateResource.cache
